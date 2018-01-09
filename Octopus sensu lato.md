@@ -1,10 +1,11 @@
 #*Species of Octopus sensu lato*
 
-##*"Octopus" cf. chierchiae* [(Fig 1)](https://www.nytimes.com/interactive/projects/cp/summer-of-science-2015/latest/larger-pacific-striped-octopus)
+##Larger Pacific Stripped Octopus [(Fig 1)](https://www.nytimes.com/interactive/projects/cp/summer-of-science-2015/latest/larger-pacific-striped-octopus)
 
 <p align="center">
   <image src="http://i2.nyt.com/images/2015/08/12/science/sosoctopus/sosoctopus-jumbo.jpg" width=30%>
- 
+    <p align="center">Figura 1. *Octopus cf. chierchiae*
+      
 ##*"Octopus" fitchi*  [(Fig. 2)](http://intermareal.ens.uabc.mx/percebu/invertebrados/Octopus-fitchi.html)
 <p align="center">
 <image src="https://c2.staticflickr.com/6/5260/5392372728_c13a893069_b.jpg" width=30%>
