@@ -4,7 +4,7 @@
 
 <p align="center">
   <image src="http://i2.nyt.com/images/2015/08/12/science/sosoctopus/sosoctopus-jumbo.jpg" width=30%>
-    <p align="center">Figura 1. *Octopus cf. chierchiae*
+    <p align="center">Figura 1. *Octopus cf. chierchiae*.
       
 ##*"Octopus" fitchi*  [(Fig. 2)](http://intermareal.ens.uabc.mx/percebu/invertebrados/Octopus-fitchi.html)
 <p align="center">
